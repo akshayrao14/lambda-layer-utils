@@ -1,0 +1,27 @@
+{
+  "name": "fetch-fresh-param-store",
+  "version": "0.0.1",
+  "description": "Fetch Fresh parameters from AWS Parameter Store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshayrao14/lambda-layer-utils.git"
+  },
+  "keywords": [
+    "aws",
+    "lambda",
+    "layers",
+    "parameter",
+    "store"
+  ],
+  "author": "Akshay Rao",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshayrao14/lambda-layer-utils/issues"
+  },
+  "homepage": "https://github.com/akshayrao14/lambda-layer-utils#readme",
+  "type": "module"
+}
